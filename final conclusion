@@ -1,0 +1,13 @@
+Going through this project taught me as much about the data itself as it did about Tableau. A few things really stood out to me once the dashboard came together:
+
+The business clearly has "peak seasons" — sales build up steadily through the year and then jump noticeably around September and November, before falling off in December. That pattern alone tells a story about when this business probably needs to prepare inventory or staffing the most.
+
+I also noticed the numbers aren't spread out evenly at all. A handful of products and a handful of customers are doing most of the heavy lifting — one customer alone brought in close to 280K in sales, way more than anyone else. That made me realize how much businesses rely ontheir "top few" rather than everyone equally.
+
+Something I didn't expect was just how UK-heavy the sales were — almost 85% of everything came from one country. It made me think about how risky that kind of dependence could be if something changed in that one market.
+
+The weekday pattern was interesting too. Tuesdays and Thursdays were consistently strong, but Saturdays were way lower than every other day. That felt less like typical retail shopping behavior and more like a business selling to other businesses on weekdays.
+
+And with an average order value of only 22 across almost 400,000 orders, it's clear this isn't a business built on big single purchases — it's built on volume, lots of smaller transactions adding up.
+
+Honestly, the part I valued most wasn't just building the charts — it was realizing how much the cleaning step mattered. Before I removed the cancellations, duplicates, and invalid entries, the numbers would have told a misleading story. That was probably the biggest lesson from the whole project.
